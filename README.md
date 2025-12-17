@@ -1,50 +1,108 @@
+# 👋 Hello World!
 
-   Hello World!.. 
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/zulqarnain-hayder/">Zulqarnain Hayder</a> </h1> 
+<h1 align="center">
+  Hi, I'm <a href="https://www.linkedin.com/in/hasnat-iqbaal/">Ali Hasnat Shah</a>
+</h1>
 
-<!--- Adding Header Elements -->
 <p align="center">
-  <a href="https://linktr.ee/engr.zulqarnain">Portfolio</a>-
-  <a href="https://www.linkedin.com/in/zulqarnain-hayder/">LinkedIn</a> - 
-  <a href="https://x.com/zulqarnai7">Twitter</a> -
-  <a href="https://linktr.ee/engr.zulqarnain">Website</a> -
-  <a href="https://topmate.io/zulqarnain">Contact me</a> -
-</p> 
+  <a href="https://www.linkedin.com/in/hasnat-iqbaal/">LinkedIn</a> •
+  <a href="https://github.com/hasnatayy">GitHub</a>
+</p>
 
------------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ Software Engineer| Developer @CUI <br>
-⚡ Check my ✨ [Website](https://linktr.ee/engr.zulqarnain)
-📫 How to reach me: [Schedule Call](https://topmate.io/zulqarnain) <br>
-👯 Contact on  [WhatsApp](http://wa.me/923554797685)<br>
-💬 Ask me about AI/Graphic Designing.<br>
+---
 
-<br><br>
-<br><br>
-<br><br>
+## 👨🏻‍💻 About Me
 
-## GitHub Status
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zulqarnain-hayder1&theme=tokyonight"  align="left" >
-<img  src="https://github-stats-lemon.vercel.app/api?username=Zulqarnain-hayder1&show_icons=true&hide_border=true&theme=react" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Zulqarnain-hayder1&theme=tokyonight" >
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
-## Languages Status
+✨ Software Engineering Student & Aspiring Developer  
+🎓 **COMSATS University Islamabad (CUI)**  
+💻 Focused on **Java, Software Development & Problem Solving**  
+🚀 Building academic & real-world projects  
 
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zulqarnain-hayder1&theme=tokyonight"  align="left">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zulqarnain-hayder1&theme=tokyonight"  >
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zulqarnain-hayder1&theme=tokyonight" >
+    
+  </tr>
+</table>
 
+---
 
-## Contribution Graph
+## GitHub Statistics
 
-<img  src="https://github-readme-activity-graph.vercel.app/graph?username=Zulqarnain-hayder1&theme=react-dark" >
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zulqarnain-hayder1&theme=tokyonight" >
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zulqarnain-hayder1&theme=tokyonight">
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img width="350"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasnatayy&theme=tokyonight" />
+    </td>
+    <td align="center" width="50%">
+      <img width="350"
+        src="https://github-readme-stats.vercel.app/api?username=hasnatayy&show_icons=true&hide_border=true&theme=react" />
+    </td>
+  </tr>
+</table>
 
-<!--- Adding Tech Stack open Section -->
-## 🏆 My Trophies
-![My Trophies](https://github-profile-trophy.vercel.app/?username=Zulqarnain-hayder1)
+<p align="center">
+  <img width="720"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hasnatayy&theme=tokyonight" />
+</p>
 
-<!--[![Profile Views](https://visitcount.itsvg.in/api?id=engr-zulqarnain&icon=0&color=3)](https://visitcount.itsvg.in)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Languages Overview
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img width="260"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasnatayy&theme=tokyonight" />
+    </td>
+    <td align="center" width="33%">
+      <img width="260"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnatayy&layout=compact&theme=tokyonight" />
+    </td>
+    <td align="center" width="33%">
+      <img width="260"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasnatayy&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img width="900"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hasnatayy&theme=react-dark" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img width="430"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasnatayy&theme=tokyonight" />
+    </td>
+    <td align="center" width="50%">
+      <img width="430"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasnatayy&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img width="900"
+    src="https://github-profile-trophy.vercel.app/?username=hasnatayy&theme=onedark&row=1" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
+
